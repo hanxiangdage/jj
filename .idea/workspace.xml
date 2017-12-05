@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61b1fa09-08af-43c6-a71d-ffc9d60d1b51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/jj.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/src/cn/happy/Hello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jj/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../jj/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jj/src/cn/happy/Hello.java" afterPath="$PROJECT_DIR$/../jj/src/cn/happy/Hello.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../jj/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,9 +19,12 @@
       <file leaf-file-name="Hello.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../jj/src/cn/happy/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="135">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,6 +44,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../jj/src/cn/happy/Hello.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -233,12 +239,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512467938015</updated>
-      <workItem from="1512467940359" duration="45000" />
+      <workItem from="1512467940359" duration="124000" />
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1512467992346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512467992346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45000" />
+    <option name="totallyTimeSpent" value="124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -277,6 +291,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -284,9 +302,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../jj/src/cn/happy/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
